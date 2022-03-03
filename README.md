@@ -8,13 +8,14 @@ need modify **envsetup.ps1** to match your build environments
 
 verify with pico-sdk v1.3
 
-we need install the below software items
+need install the below software packages first
 
-* cmake 3.13 and later
-* pico-sdk 1.3
-* python 3.6 and later
-* visual studio 2015 and later
-* ninja
+* [cmake 3.13 and later](https://cmake.org/download/)
+* [pico-sdk 1.3](https://github.com/raspberrypi/pico-sdk)
+* [python 3.6 and later](https://www.python.org/downloads/windows/)
+* [gnu arm embedded toolchain](https://developer.arm.com/tools-and-software/open-source-software/developer-tools/gnu-toolchain/gnu-rm/downloads)
+* [visual studio 2015 and later](https://visualstudio.microsoft.com/en-us/vs/community/)
+* [ninja](https://github.com/ninja-build/ninja/releases)
 
 The following is operation log
 ```
